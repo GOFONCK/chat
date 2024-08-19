@@ -12,8 +12,8 @@ LIGHTBLUE='\033[1;34m'
 LIGHTCYAN='\033[1;36m'
 YELLOW='\033[1;33m'
 
-# fluky installation for ubuntu 18.04
-function ubuntu_18_04 {
+# fluky installation for ubuntu 20.04
+function ubuntu_20_04 {
 
     # welcome message
     echo ""
